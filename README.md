@@ -31,6 +31,12 @@ To use the analysis, clone the repository and run the crypto_arbitrage.ipynb wit
 
 ---
 
+## Results
+
+The overall number of arbitrage opportunities reduced over time as the market became more efficient. Similarly, the profit from the arbitrage opportunities was also reduced.
+
+---
+
 ## Contributors
 
 Sebastian Sandoval
